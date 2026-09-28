@@ -8,3 +8,13 @@
 -- git add . -- for adding untracked files to staged area
 
 -- git commit -m "message" for adding staged files to local repository
+
+-- git log -for showing commit history
+
+-- git remote add origin -- for connecting local repo with remote repo
+
+-- git push origin branchname # for adding changes from local repo into remote repo
+
+-- git bracnch shows the real branch name
+
+-- git remote -v -- for showing details of remote repo
