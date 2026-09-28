@@ -1,0 +1,10 @@
+
+-- git config --global user.name "username""#for adding username
+ -- git config --global user.email "emailid"
+-- git init -fr initializing git repo
+
+-- git status - for listing untracked files
+
+-- git add . -- for adding untracked files to staged area
+
+-- git commit -m "message" for adding staged files to local repository
